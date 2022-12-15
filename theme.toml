@@ -1,0 +1,17 @@
+name = "Drake"
+license = "MIT"
+licenselink = "https://github.com/hugotheme/drake/blob/main/LICENSE"
+description = "Drake is an Hugo Starter with Tailwind CSS 3.2 and Alpine.js with light and dark modes. Submitted for Hacktoberfest 2022."
+homepage = "https://github.com/hugotheme/drake"
+demosite = "https://drake-theme.netlify.app"
+tags = ["blog", "tailwind", "tailwindcss", "darkmode", "lightmode"]
+features = ["blog", "categories", "webp", "tailwind3", "alpinejs"]
+
+[author]
+    name = "Li Wufei"
+    homepage = "https://github.com/liwufei"
+
+[original]
+    author = ""
+    homepage = ""
+    repo = ""
